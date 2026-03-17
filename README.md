@@ -53,7 +53,7 @@ pakistan-capitals-game/
 ├── main.py                    # Main game logic
 ├── pakistan_capitals.csv      # Capitals with x, y coordinates
 ├── cities_to_learn.csv        # Missed cities for user's learning
-├── map.gif                    # Map image used in the game
+├── map.gif                    # Map image used in the game (collected from sprocle.com)
 └── coordinates_collection.py  # Used to collect the cities locations from the map
 
 ```
