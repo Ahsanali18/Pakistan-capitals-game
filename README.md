@@ -48,7 +48,7 @@ The game continues until:
 ## 📂 Project Structure
 
 ```
-pakistan-capitals-game/
+Sporcle Pakistan Capital Finding Game/
 │
 ├── main.py                    # Main game logic
 ├── pakistan_capitals.csv      # Capitals with x, y coordinates
