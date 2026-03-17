@@ -65,13 +65,13 @@ Sporcle Pakistan Capital Finding Game/
 1. Clone this repository:
 
 ```
-git clone https://github.com/ahsanali18/pakistan-capitals-game.git
+git clone https://github.com/ahsanali18/Pakistan-capitals-game.git
 ```
 
 2. Navigate to the project folder:
 
 ```
-cd pakistan-capitals-game
+cd Pakistan-capitals-game
 ```
 
 3. Run the game:
