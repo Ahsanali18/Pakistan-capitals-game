@@ -1,4 +1,7 @@
 # 🇵🇰 Pakistan Capitals Guessing Game
+<img width="376" height="298" alt="image" src="https://github.com/user-attachments/assets/a538e90d-10ae-4795-8d1b-d6fc5bce8fd7" />
+
+
 
 An interactive Python game built using **Turtle Graphics** and **Pandas**, where users try to guess the capitals of Pakistan and see them appear on the map in real-time.
 
